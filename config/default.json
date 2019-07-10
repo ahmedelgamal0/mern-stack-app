@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://user:user3@mern-stack-project-gbl3z.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://user:user3@mern-stack-project-gbl3z.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret1591998"
 }
